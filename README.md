@@ -5,10 +5,10 @@ Brain Titer prediction is usually intrusive and only possible after medical insp
 This attempts to improve performance of Abeta prediction by using Inception network and a VGG-inspired lighter convolution based network as backbone of GlobalLocal Transformer.
 
 Train the models
-$$
+```
 cd Brain\ Abeta\ Estimation/Abeta\ train
 python GLT_train_test.py
-$$
+```
 
 Validate the models
 '''
