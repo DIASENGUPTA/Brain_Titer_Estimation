@@ -1,5 +1,31 @@
-## 
-Pytorch implementation of FiAnet <br/>
+## Introduction
+Brain Titer prediction is usually intrusive and only possible after medical inspection. This is an attempt to perform prediction of few of those titers using Deep Learning algorithms. 
+
+## Brain Abeta Prediction
+This attempts to improve performance of Abeta prediction by using Inception network and a VGG-inspired lighter convolution based network as backbone of GlobalLocal Transformer.
+
+Train the models
+'''
+cd Brain\ Abeta\ Estimation/Abeta\ train
+python GLT_train_test.py
+'''
+
+Validate the models
+'''
+cd Brain\ Abeta\ Estimation/Abeta\ train
+python GLT_Trial_incep.py
+python GLT_Trial_novel.py
+'''
+
+Additional Regression Data Analysis
+'''
+cd Brain\ Abeta\ Estimation/
+'''
+Execute Regression Try 1.ipynb.
+
+## Brain Age Prediction
+
+
 
 
 
