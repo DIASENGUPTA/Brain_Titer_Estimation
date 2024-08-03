@@ -11,17 +11,17 @@ python GLT_train_test.py
 ```
 
 Validate the models
-'''
+```
 cd Brain\ Abeta\ Estimation/Abeta\ train
 python GLT_Trial_incep.py
 python GLT_Trial_novel.py
-'''
+```
 
 Additional Regression Data Analysis
-'''
+```
 cd Brain\ Abeta\ Estimation/
-'''
-Execute Regression Try 1.ipynb.
+```
+Execute `Regression Try 1.ipynb`.
 
 ## Brain Age Prediction
 
