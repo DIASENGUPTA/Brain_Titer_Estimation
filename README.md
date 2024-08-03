@@ -24,7 +24,7 @@ Brain\ Abeta\ Estimation/Regression\ Try\ 1.ipynb
 
 ## Brain Age Prediction
 
-
+This presents detailed code and results for fusion models and lobe-wise Global Local Transformer performance for Brain-Age prediction.
 
 
 
