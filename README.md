@@ -19,9 +19,8 @@ python GLT_Trial_novel.py
 
 Additional Regression Data Analysis
 ```
-cd Brain\ Abeta\ Estimation/
+Brain\ Abeta\ Estimation/Regression\ Try\ 1.ipynb
 ```
-Execute `Regression Try 1.ipynb`.
 
 ## Brain Age Prediction
 
